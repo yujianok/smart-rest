@@ -56,12 +56,12 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus</id>
-            <url>http://nexus.tsfintech.com/content/repositories/releases</url>
+            <id>tsfintech</id>
+            <url>http://120.26.205.169:8081/nexus/content/repositories/releases</url>
         </repository>
         <snapshotRepository>
-            <id>nexus</id>
-            <url>http://nexus.tsfintech.com/content/repositories/snapshots</url>
+            <id>tsfintech</id>
+            <url>http://120.26.205.169:8081/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
